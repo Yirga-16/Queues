@@ -1,7 +1,7 @@
 # Queues
-SimPy simulation examples for simple queueing systems.
+My studying SimPy simulation examples for simple queueing systems.
 
-This github repository was created to provide teaching examples for Final Year Project students at the Department of Eletrical Engineering, National Taiwan University of Science and Technology.
+This github repository was created to provide teaching examples by Yinchi at the Department of Eletrical Engineering, City University of Hong Kong. 
 
 1. Installing Python and SimPy
 These examples are written in Python 3.
