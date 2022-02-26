@@ -11,9 +11,9 @@ arrival rates.  We will plot the results in Example 8.
 
 import simpy
 import numpy as np
-import ex04_mmkk as mmkk
-import ex06_mdkk as mdkk
-from ex05_confidence_intervals import ci
+import mmkk as mmkk
+import mdkk as mdkk
+from confidence_intervals import ci
 
 def mean_err(ci):
     # convert confidence interval from (min,max) to (mean,error_bound)
